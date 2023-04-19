@@ -6,6 +6,6 @@ export default function Aside() {
 
     return <div style={ aside }>
         <h4>This is the aside</h4>
-        <h5 style={ innerAside}>This is another thing</h5>
+        <h5 style={ innerAside }>This is another thing</h5>
     </div>
 }

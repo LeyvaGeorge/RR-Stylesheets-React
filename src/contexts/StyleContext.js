@@ -13,6 +13,6 @@ export const DEFAULT_STYLE = {
     }
 }
 
-const StyleContext = React.createContext()
+const StyleContext = React.createContext(DEFAULT_STYLE)
 
 export default StyleContext;
